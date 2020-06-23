@@ -1114,12 +1114,12 @@ header .logo a {
 	margin: 0;
 	padding: 0;
 	border: none;
-	font: 0/0 a;
+	font: 0/0 a;	
 	text-shadow: none;
 	color: transparent;
 	width: 100px;
 	height: 15px;
-	background: url("../images/cover.png") no-repeat center;
+	background: url("../images/pujalogo.png") no-repeat center;
 	background-size: 92px 15px;
 }
 
@@ -2380,7 +2380,7 @@ header .logo a {
 	color: #fa0003;
 }
 #message-success {
-	color: #FF0077;
+	color: #3aeb34;
 }
 #message-warning i, #message-success i {
 	margin-right: 10px;
