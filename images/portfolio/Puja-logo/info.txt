@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Snickles
+font link: https://www.fontsquirrel.com/fonts/Snickles
+font author: Tup Wanders
+font author site: http://www.tupwanders.nl/
+
+
+icon designer: Wilson Joseph
+icon designer link: /wilsonjoseph
+        
+{"bg":"#D94375","icon":"#DDFAD5","font":"#DDFAD5","slogan":"#f1ffe9"}
+      
